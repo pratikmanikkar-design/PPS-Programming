@@ -1,3 +1,5 @@
+// Name:-Pratik S. Manikkar
+// PRN No:-2503033111378UD031
 #include <stdio.h>
 int add(int a, int b) { return a + b; }
 int sub(int a, int b) { return a - b; }
